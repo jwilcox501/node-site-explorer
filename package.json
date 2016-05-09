@@ -4,7 +4,6 @@
   "description"  : "Scrape le web.",
   "main"         : "server.js",
   "author"       : "Scotch",
-
   "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
